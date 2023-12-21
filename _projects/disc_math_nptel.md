@@ -2,7 +2,7 @@
 layout: page
 title: Discrete Mathematics
 description: NPTEL version
-img: assets/img/12.jpg
+img: assets/img/disc.jpg
 importance: 1
 category: courses
 ---

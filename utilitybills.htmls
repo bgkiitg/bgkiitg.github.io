@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Utility Bill Payments</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Utility Bill Payments</h1>
+
+    <table>
+        <tr>
+            <th>Utility Service</th>
+            <th>Bill Amount</th>
+	    <th>Due date</th>
+	    <th>Payment Status</th>
+        </tr>
+        <tr>
+            <td>Airtel 7086074773</td>
+            <td>$100.00</td>
+	    <td>6th </td>
+	    <td>No</td>
+        </tr>
+        <tr>
+            <td>Airtel 9678071098</td>
+            <td>$100.00</td>
+	    <td>19th</td>
+	    <td>No</td>
+        </tr>
+        <tr>
+            <td>ICICI Rubyx</td>
+            <td>$100.00</td>
+	    <td>29th </td>
+	    <td>No</td>
+        </tr>
+        <tr>
+            <td>ICICI AMazonPay</td>
+            <td>$100.00</td>
+	    <td>31st </td>
+	    <td>No</td>
+        </tr>
+        <tr>
+            <td>SBI Card</td>
+            <td>$100.00</td>
+	    <td>21st </td>
+	    <td>No</td>
+        </tr>
+        <tr>
+            <td>HDFC</td>
+            <td>$100.00</td>
+	    <td>4th </td>
+	    <td>No</td>
+        </tr>
+        <tr>
+            <td>BSNL 03612919162</td>
+            <td>$100.00</td>
+	    <td>18th</td>
+	    <td>No</td>
+        </tr>
+
+	
+        <!-- Add more rows as needed -->
+    </table>
+
+</body>
+</html>
+
+Copy and paste this code into an HTML file, and you can open it in a web browser to see the table listing the utility services and their respective bill amounts. You can customize the table by adding more rows or modifying the existing ones according to the services you have. Later, you can integrate payment gateways or any additional functionality as required.
