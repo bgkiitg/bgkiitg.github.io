@@ -1,6 +1,6 @@
 ---
 title: Optimization Methods
-excerpt: A course on Linear Programs and Semi definite programs with  applications to various optimization problem which are combinatorial in nature.
+excerpt: A course on linear programs and semi definite programs with  applications to various optimization problems which are combinatorial in nature.
 ---
 ## Introduction to Linear Programming
 - Connections with Geometry
