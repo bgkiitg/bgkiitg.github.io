@@ -7,3 +7,8 @@ The notion of word-representable graphs has been extensively studied. It is well
 
 
 [Link](https://link.springer.com/chapter/10.1007/978-3-031-33264-7_13)
+
+Collaborators:  
+- Ahaan Sameer Malhotra
+- Sreyas Sasidharan, 
+- Sajith Gopalan
